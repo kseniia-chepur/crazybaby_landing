@@ -5,4 +5,6 @@
 - BEM
 - Responsive design (mobile/tablet/desktop)
 
-[DEMO](https://kseniia-chepur.github.io/crazybaby_landing/)
+### [Design](https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?type=design&node-id=19655-32&mode=design)
+
+### [DEMO](https://kseniia-chepur.github.io/crazybaby_landing/)
