@@ -5,4 +5,4 @@
 - BEM
 - Responsive design (mobile/tablet/desktop)
 
-[DEMO](https://kseniia-chepur.github.io/kickstarter_landing/)
+[DEMO](https://kseniia-chepur.github.io/crazybaby_landing/)
