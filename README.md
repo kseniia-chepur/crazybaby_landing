@@ -1,4 +1,4 @@
-## Landing page Kickstarter
+## Landing page Crazybaby (innovative audio systems)
 
 - HTML/CSS
 - SASS
