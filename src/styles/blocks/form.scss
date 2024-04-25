@@ -23,6 +23,14 @@
     resize: none;
     transition: all $effect-duration ease;
 
+    &:autofill {
+      border-color: $accent-color;
+    }
+
+    &:-webkit-autofill {
+      border-color: $accent-color;
+    }
+
     &::placeholder {
       color: $gray-color;
     }
@@ -49,6 +57,7 @@
     line-height: 14px;
     text-transform: uppercase;
     align-self: flex-start;
+    cursor: pointer;
 
     @include hover(background-color, $accent-color-dark);
 

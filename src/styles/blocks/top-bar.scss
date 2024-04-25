@@ -3,6 +3,7 @@
   justify-content: space-between;
   align-items: center;
   padding-block: 22px;
+
   @include contentPaddingInline;
 
   @include onTablet {
